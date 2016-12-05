@@ -17,9 +17,7 @@ Version 2.0
 ------
 
 HERE IS THE AI ALGORITHM
-qwe
-asd
-zxc
+qwe asd zxc
 ---
 qs qc sc //q dan c ye çapraz
 qw we qe //yatay 1. sıra
