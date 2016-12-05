@@ -6,7 +6,7 @@ O=2
 You always represent X(1)
 
 
-Version 2.0
+V2.01
 5.12.2016
 ---------
 +Added infinite loop for infinite plays!
