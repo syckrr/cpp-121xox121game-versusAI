@@ -10,9 +10,13 @@ Version 2.0
 5.12.2016
 ---------
 +Added infinite loop for infinite plays!
+
 +Added some combinations and reactions for AI (Now,its really hard to win)
+
 +Fixed some bugs 
+
 +Faster using
+
 +Added move priority
 
 
