@@ -1,4 +1,4 @@
-# xoxgame-impossible2win-versusAI
+# cpp-121xox121game-versusAI
 XOX Oyunu - Yenilmesi zor yapay zekaya karşı! # The xox game with a strong opponent! Can you beat this Intelligence?!
 
 X=1
