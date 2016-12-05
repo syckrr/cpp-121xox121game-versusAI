@@ -14,11 +14,12 @@ Version 2.0
 +Fixed some bugs 
 +Faster using
 +Added move priority
-------
+
 
 HERE IS THE AI ALGORITHM
+------
 qwe asd zxc
----
+
 qs qc sc //q dan c ye çapraz
 qw we qe //yatay 1. sıra
 as ad sd //yatay 2. sıra
@@ -28,7 +29,6 @@ qa az qz //dikey 1. sıra
 ws wx sx //dikey 2. sıra
 ed ec dc //dikey 3. sıra
 
---
 
 qs qc sc           qsc //bitti
 qw we qe           qwe //bitti 
