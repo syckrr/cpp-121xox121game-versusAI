@@ -215,7 +215,7 @@ void core()
 		else if(x==1 && c==1 && (z!=2 && z!=1)) z=2; //zxc bitiþ
 		else if(e==1 && s==1 && (z!=2 && z!=1)) z=2; 
 		else if(e==1 && z==1 && (s!=2 && s!=1)) s=2;
-		else if(z==1 && x==1 && (e!=2 && e!=1)) e=2; //esz bitiþ
+		else if(z==1 && s==1 && (e!=2 && e!=1)) e=2; //esz bitiþ
 		else if(q==1 && a==1 && (z!=2 && z!=1)) z=2;
 		else if(q==1 && z==1 && (a!=2 && a!=1)) a=2;
 		else if(z==1 && a==1 && (q!=2 && q!=1)) q=2; //qaz bitiþ
