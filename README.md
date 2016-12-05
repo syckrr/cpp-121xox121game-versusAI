@@ -25,20 +25,35 @@ HERE IS THE AI ALGORITHM
 qwe asd zxc
 
 qs qc sc //q dan c ye çapraz
+
 qw we qe //yatay 1. sıra
+
 as ad sd //yatay 2. sıra
+
 zx xc zc //yatay 3. sıra
+
 es sz ez //e den z ye çapraz
+
 qa az qz //dikey 1. sıra
+
 ws wx sx //dikey 2. sıra
+
 ed ec dc //dikey 3. sıra
 
 
+
 qs qc sc           qsc //bitti
+
 qw we qe           qwe //bitti 
+
 as ad sd           asd //bitti
+
 zx xc zc           zxc //bitti
+
 es sz ez           esz //bitti
+
 qa az qz 	   qaz //bitti
+
 ws wx sx   	   wsx //bitti
+
 ed ec dc 	   edc //bitti
