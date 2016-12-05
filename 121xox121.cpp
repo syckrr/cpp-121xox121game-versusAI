@@ -174,6 +174,7 @@ void core()
 			system("timeout 2");
 			break;
 		}
+		else if(z==2 && s==2 && e==0) e=2; //esz bitiþ
 		else if(q==2 && s==2 && (c!=2 && c!=1)) c=2;  //ilk baþa a.i kazanirsa diye atak koyuyoruz defans 2. öncelik attack=2
 		else if(q==2 && c==2 && (s!=2 && s!=1)) s=2;
 		else if(s==2 && c==2 && (q!=2 && q!=1)) q=2; //qsc bitiþ 2
@@ -187,8 +188,7 @@ void core()
 		else if(z==2 && c==2 && (x!=2 && x!=1)) x=2;
 		else if(x==2 && c==2 && (z!=2 && z!=1)) z=2; //zxc bitiþ
 		else if(e==2 && s==2 && (z!=2 && z!=1)) z=2; 
-		else if(e==2 && z==2 && (s!=2 && s!=1)) s=2;
-		else if(z==2 && s==2 && e==0) e=2; //esz bitiþ
+		else if(e==2 && z==2 && (s!=2 && s!=1)) s=2;		
 		else if(q==2 && a==2 && (z!=2 && z!=1)) z=2;
 		else if(q==2 && z==2 && (a!=2 && a!=1)) a=2;
 		else if(z==2 && a==2 && (q!=2 && q!=1)) q=2; //qaz bitiþ
@@ -338,7 +338,7 @@ int main(){
 	}
 	else{
 		printf("%d %d %d\n%d %d %d\n%d %d %d\nBasit sekilde dizilim budur.Oyuncu rakamlari girerek giris yapar ve her zaman 1'tir.\nComp. ise her zaman 2'dir.Computer asla yenilmeyecek sekilde\ntasarlanmistir.Yani uzulme kimse yenemiyor!",1,2,3,4,5,6,7,8,9);
-		printf("\n(En azindan daha gormedik! :p)V2.0 - Coded by acap1t. Mail--->cemdenkacmz@gmail.com \nGecmek icin enter'a basiniz.\n\n----------------------------\n");
+		printf("\n(En azindan daha gormedik! :p)V2.01 - Coded by acap1t. Mail--->cemdenkacmz@gmail.com \nGecmek icin enter'a basiniz.\n\n----------------------------\n");
 		getch();
 	}
 	printf("Oyun Basliyor!");
