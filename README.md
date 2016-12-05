@@ -42,18 +42,3 @@ ed ec dc //dikey 3. sıra
 
 
 
-qs qc sc           qsc //bitti
-
-qw we qe           qwe //bitti 
-
-as ad sd           asd //bitti
-
-zx xc zc           zxc //bitti
-
-es sz ez           esz //bitti
-
-qa az qz 	   qaz //bitti
-
-ws wx sx   	   wsx //bitti
-
-ed ec dc 	   edc //bitti
